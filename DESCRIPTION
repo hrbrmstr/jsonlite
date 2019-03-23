@@ -21,6 +21,7 @@ Description: A fast JSON parser and generator optimized for statistical data
     stream, validate, and prettify JSON data. The unit tests included with the
     package verify that all edge cases are encoded and decoded consistently for
     use with dynamic data in systems and applications.
+Encoding: UTF-8
 Suggests:
     httr,
     curl,

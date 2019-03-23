@@ -2,6 +2,7 @@
 #' @export
 print.json <- function(x, ...){
   cat(x, "\n")
+  invisible(x)
 }
 
 #' @method print scalar
